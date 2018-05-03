@@ -1,0 +1,1 @@
+{"version":3,"file":"../sass/css06.css","sources":["css06.scss"],"sourcesContent":[".test {\n  background-color: crimson;\n  height: 200px;\n  margin-top: 1rem;\n  width: 200px;\n}\n"],"names":[],"mappings":"AAAA,AAAA,KAAK,CAAC;EACJ,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,IAAI;EAChB,KAAK,EAAE,KAAK,GACb"}
